@@ -1,6 +1,6 @@
 # Project: Travel in Russia (landing page)
 
-See demo [https://github.com/mymappet-cloud/russian-travel-include.git](https://github.com/mymappet-cloud/russian-travel-include.git)
+See demo [https://mymappet-cloud.github.io/russian-travel-include/](https://mymappet-cloud.github.io/russian-travel-include/)
 
 ## What is this?
 
@@ -11,7 +11,7 @@ One page website on pure modern Html and CSS. Educational project from [https://
 1. Download project files
 
 - The easiest way to run a project is download zip
-  from [https://github.com/mymappet-cloud/russian-travel-include.git](https://github.com/mymappet-cloud/russian-travel-include.git)
+  from [https://github.com/mymappet-cloud/russian-travel-include/archive/refs/heads/main.zip](https://github.com/mymappet-cloud/russian-travel-include/archive/refs/heads/main.zip)
 - Or you can use the command
 
 ```sh
