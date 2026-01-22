@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Проект третьего спринта Василия Муравьева на Яндекс.Практикуме">
+    <meta name="description" content="Проект третьего спринта Петрухина Петра на Яндекс.Практикуме">
     <meta name="keywords" content="html, css">
-    <meta name="author" content="Василий Муравьев">
+    <meta name="author" content="Петрухин Петр">
     <link rel="stylesheet" href="./pages/index.css">
     <title>Путешествие по России</title>
 </head>

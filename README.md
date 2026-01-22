@@ -1,6 +1,6 @@
 # Project: Travel in Russia (landing page)
 
-See demo [https://vasiliy-muravev.github.io/russian-travel/](https://vasiliy-muravev.github.io/russian-travel/)
+See demo [https://github.com/mymappet-cloud/russian-travel-include.git](https://github.com/mymappet-cloud/russian-travel-include.git)
 
 ## What is this?
 
@@ -11,11 +11,11 @@ One page website on pure modern Html and CSS. Educational project from [https://
 1. Download project files
 
 - The easiest way to run a project is download zip
-  from [https://github.com/vasiliy-muravev/russian-travel](https://github.com/vasiliy-muravev/russian-travel)
+  from [https://github.com/mymappet-cloud/russian-travel-include.git](https://github.com/mymappet-cloud/russian-travel-include.git)
 - Or you can use the command
 
 ```sh
-git clone https://github.com/vasiliy-muravev/russian-travel.git
+git clone https://github.com/mymappet-cloud/russian-travel-include.git
 ```
 
 2. Open the index.html file in any browser

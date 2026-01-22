@@ -20,7 +20,7 @@
                 </ul>
             </nav>
             <div class="footer__content-copyright">
-                <p class="footer__author">&copy; 2022 Василий Муравьев</p>
+                <p class="footer__author">&copy; 2022 Петр Петрухин</p>
             </div>
         </div>
     </footer>
